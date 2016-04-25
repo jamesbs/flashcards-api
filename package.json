@@ -1,0 +1,23 @@
+{
+  "name": "flashcards-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "tsc -w &",
+    "start": "nodemon dist/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrent": "^0.3.2",
+    "concurrently": "^2.0.0",
+    "nodemon": "^1.9.1",
+    "typings": "^0.8.1"
+  },
+  "dependencies": {
+    "hapi": "^13.3.0",
+    "typescript": "^1.8.10"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flashcards-api",
+  "dependencies": {},
+  "devDependencies": {},
+  "ambientDependencies": {
+    "hapi": "registry:dt/hapi#13.0.0+20160423150146"
+  },
+  "ambientDevDependencies": {
+    "node": "registry:dt/node#4.0.0+20160423143914"
+  }
+}
