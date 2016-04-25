@@ -4,7 +4,9 @@ import { LangItem, data } from './data';
 
 const server = new hapi.Server();
 
-server.connection({ port: 8999 });
+server.connection({ 
+    port: 8999
+});
 
 server.start((err) => {
     if(err) {
@@ -31,6 +33,9 @@ server.route({
         const item = data[request.params["id"]];
         
         return reply(item);
+    },
+    config: {
+        cors: true
     }
 });
 
@@ -44,5 +49,8 @@ server.route({
         const item = data[keys[Math.floor( Math.random() * keys.length )]];
 
         return reply(item);
+    },
+    config: {
+        cors: true
     }
 })
