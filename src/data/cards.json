@@ -4,5 +4,137 @@
         "chinese": "新闻",
         "pinyin": "xin1 wen2",
         "english": "news"
+    },
+    {
+        "id": "2",
+        "chinese": "首页",
+        "pinyin": "shou3 ye4",
+        "english": ["home page", "main page"]
+    },
+    {
+        "id": "3",
+        "chinese": "页",
+        "pinyin": "ye4",
+        "english": "page"
+    },
+    {
+        "id": "4",
+        "chinese": "首",
+        "pinyin": "shou3",
+        "english": [ "head", "front" ]
+    },
+    {
+        "id": "5",
+        "chinese": "闻",
+        "pinyin": "wen2",
+        "english": [ "smell", "listen" ]
+    },
+    {
+        "id": "6",
+        "chinese": "知道",
+        "pinyin": "zhi1 dao4",
+        "english": [ "to know", "to be aware of" ]
+    },
+    {
+        "id": "7",
+        "chinese": "欢乐",
+        "pinyin": "huan1 le5",
+        "english": [ "joyful" ]
+    },
+    {
+        "id": "8",
+        "chinese": "场",
+        "pinyin": "chang3",
+        "english": [ "ground", "area", "stage" ]
+    },
+    {
+        "id": "9",
+        "chinese": "因为",
+        "pinyin": "yin1 wei4",
+        "english": "because"
+    },
+    {
+        "id": "10",
+        "chinese": "因",
+        "pinyin": "yin1",
+        "english": "because"
+    },
+    {
+        "id": "11",
+        "chinese": "美食",
+        "pinyin": "mei3 shi2",
+        "english": ["food", "delicious food"]
+    },
+    {
+        "id": "12",
+        "chinese": "鱼",
+        "pinyin": "yu3",
+        "english": "fish"
+    },
+    {
+        "id": "13",
+        "chinese": "海鲜",
+        "pinyin": "hai3 xian1",
+        "english": "seafood"
+    },
+    {
+        "id": "14",
+        "chinese": "娱乐",
+        "pinyin": "yu3 le4",
+        "english": [ "pleasure", "entertainment" ]
+    },
+    {
+        "id": "15",
+        "chinese": "频道",
+        "pinyin": "pin2 dao4",
+        "english": [ "channel" ]
+    },
+    {
+        "id": "16",
+        "chinese": "网",
+        "pinyin": "wang3",
+        "english": [ "network", "net" ]
+    },
+    {
+        "id": "17",
+        "chinese": "互联网",
+        "pinyin": "hu4 lian2 wang3",
+        "english": "the internet"
+    },
+    {
+        "id": "18",
+        "chinese": "网络",
+        "pinyin": "wan3 luo4",
+        "english": "the internet"
+    },
+    {
+        "id": "19",
+        "chinese": "鸡",
+        "pinyin": "ji1",
+        "english": "chicken"
+    },
+    {
+        "id": "20",
+        "chinese": "鸡",
+        "pinyin": "ti3 yu4",
+        "english": [ "sports", "physical education" ] 
+    },
+    {
+        "id": "21",
+        "chinese": "体育场",
+        "pinyin": "ti3 yu4 chang3",
+        "english": "stadium"
+    },
+    {
+        "id": "22",
+        "chinese": "财",
+        "pinyin": "cai2",
+        "english": "wealth"
+    },
+    {
+        "id": "23",
+        "chinese": "财经",
+        "pinyin": "cai2 jing1",
+        "english": [ "economics", "finance" ]
     }
 ]
