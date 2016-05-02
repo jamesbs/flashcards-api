@@ -115,7 +115,7 @@
     },
     {
         "id": "20",
-        "chinese": "鸡",
+        "chinese": "体育",
         "pinyin": "ti3 yu4",
         "english": [ "sports", "physical education" ] 
     },
@@ -136,5 +136,59 @@
         "chinese": "财经",
         "pinyin": "cai2 jing1",
         "english": [ "economics", "finance" ]
+    },
+    {
+        "id": "24",
+        "chinese": "焦点",
+        "pinyin": "jiao1 dian3",
+        "english": "focus"
+    },
+    {
+        "id": "25",
+        "chinese": "焦点新闻",
+        "pinyin": "jiao1 dian3 xin1 wen2",
+        "english": "hot news"
+    },
+    {
+        "id": "26",
+        "chinese": "组图",
+        "pinyin": "zu3 tu2",
+        "english": "photos"
+    },
+    {
+        "id": "27",
+        "chinese": "甘薯",
+        "pinyin": "gan1 shu3",
+        "english": [ "yam", "sweet potato"]
+    },
+    {
+        "id": "28",
+        "chinese": "极限",
+        "pinyin": "ji2 xian4",
+        "english": "limit"
+    },
+    {
+        "id": "29",
+        "chinese": "甘",
+        "pinyin": "gan1",
+        "english": "sweet"
+    },
+    {
+        "id": "30",
+        "chinese": "薯",
+        "pinyin": "shu3",
+        "english": "potato"
+    },
+    {
+        "id": "31",
+        "chinese": "地",
+        "pinyin": "di4",
+        "english": "land"
+    },
+    {
+        "id": "32",
+        "chinese": "地瓜",
+        "pinyin": "di4 gua1",
+        "english": "sweet potato"
     }
 ]
